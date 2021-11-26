@@ -1,0 +1,1 @@
+delete from Address_Book_Table where first_name= 'mahesh';
