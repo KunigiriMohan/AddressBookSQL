@@ -1,0 +1,1 @@
+select city from address_book_table order by first_name;
